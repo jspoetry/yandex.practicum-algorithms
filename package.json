@@ -1,0 +1,24 @@
+{
+  "name": "algorithm-practice",
+  "author": "genrikh.schwartz@gmail.com (jspoetry)",
+  "version": "1.0.0",
+  "description": "Algorithmic solutions for tasks from Yandex.Praktikum",
+  "type": "module",
+  "engines": {
+    "node": ">= 14"
+  },
+  "scripts": {
+    "build-for-contest": "parcel build --no-optimize --no-source-maps --target default src/algorithms/**/*.js"
+  },
+  "license": "ISC",
+  "targets": {
+    "default": {
+      "engines": {
+        "node": ">= 14"
+      }
+    }
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
