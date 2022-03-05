@@ -3,22 +3,37 @@
   "author": "genrikh.schwartz@gmail.com (jspoetry)",
   "version": "1.0.0",
   "description": "Algorithmic solutions for tasks from Yandex.Praktikum",
-  "type": "module",
   "engines": {
     "node": ">= 14"
   },
   "scripts": {
-    "build-for-contest": "parcel build --no-optimize --no-source-maps --target default src/algorithms/**/*.js"
+    "build": "parcel build --target default src/**/**/*.js",
+    "watch": "parcel watch --target default src/**/**/*.js",
+    "test": "jest",
+    "test:watch": "jest --watch --verbose",
+    "clean": "rimraf dist"
   },
   "license": "ISC",
   "targets": {
     "default": {
+      "context": "node",
+      "optimize": false,
+      "sourceMap": false,
       "engines": {
         "node": ">= 14"
       }
     }
   },
+  "babel": {
+    "presets": ["@parcel/babel-preset-env"]
+  },
   "devDependencies": {
-    "parcel": "^2.0.0-rc.0"
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11",
+    "@parcel/babel-preset-env": "^2.2.1",
+    "babel-jest": "^27.4.6",
+    "jest": "^27.4.7",
+    "parcel": "^2.2.1",
+    "rimraf": "^3.0.2"
   }
 }

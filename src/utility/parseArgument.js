@@ -1,3 +1,7 @@
+/**
+ * @param {unknown} arg
+ * @returns {void|number|string|(string|number)[]}
+ */
 export const parseArgument = (arg) => {
   if (!arg) return;
 
