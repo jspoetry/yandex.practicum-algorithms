@@ -7,8 +7,8 @@
     "node": ">= 14"
   },
   "scripts": {
-    "build": "parcel build --target default src/**/**/*.js",
-    "watch": "parcel watch --target default src/**/**/*.js",
+    "build": "parcel build --target default src/**/**/*.*s",
+    "watch": "parcel watch --target default src/**/**/*.*s",
     "test": "jest",
     "test:watch": "jest --watch --verbose",
     "clean": "rimraf dist"
