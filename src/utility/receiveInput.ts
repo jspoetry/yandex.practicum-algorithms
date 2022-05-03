@@ -2,7 +2,7 @@ import readline from 'readline'
 import * as process from "process";
 import { parseArgument } from "./parseArgument.js";
 
-export function receiveInput(cb, parser = parseArgument) {
+export function receiveInput<T extends Function>(cb: T, parser = parseArgument) {
   const rl = readline.createInterface({
     input: process.stdin
   })
