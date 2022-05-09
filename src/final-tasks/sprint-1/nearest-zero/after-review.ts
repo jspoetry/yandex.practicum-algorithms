@@ -1,5 +1,5 @@
-import {receiveInput} from "../../../utility/receiveInput.js";
-import {transformToArrayIfIsNot} from "../../../utility/transformToArrayIfIsNot.js";
+import { receiveInput } from "../../../utility/receiveInput";
+import { transformToArrayIfIsNot } from "../../../utility/transformToArrayIfIsNot";
 
 receiveInput(solve)
 

@@ -1,5 +1,5 @@
-import {receiveInput} from "../../../utility/receiveInput.js";
-import {transformToArrayIfIsNot} from "../../../utility/transformToArrayIfIsNot.js";
+import { receiveInput } from "../../../utility/receiveInput";
+import { transformToArrayIfIsNot } from "../../../utility/transformToArrayIfIsNot";
 
 receiveInput(solve)
 
@@ -40,7 +40,7 @@ const defineNearestZero = (arr) => {
       decrementUntil(first - 1, 0, nearestZeroElements)
     }
 
-      insetIntoArrayInTwoDirection(first, second, nearestZeroElements)
+    insetIntoArrayInTwoDirection(first, second, nearestZeroElements)
   })
 
   return nearestZeroElements

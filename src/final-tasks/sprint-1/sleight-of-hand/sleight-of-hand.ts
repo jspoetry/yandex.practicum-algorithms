@@ -1,4 +1,4 @@
-import {receiveInput} from "../../../utility/receiveInput.js";
+import { receiveInput } from "../../../utility/receiveInput";
 
 const parser = (arg) => {
   if (!arg) return;

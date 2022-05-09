@@ -1,4 +1,4 @@
-import {Deck} from "./deck.js";
+import { Deck } from "./deck";
 
 export const solution = (input) => {
   const [commandCount, deckSize, ...commands] = input
