@@ -33,7 +33,7 @@
     "@parcel/babel-preset-env": "^2.2.1",
     "babel-jest": "^27.4.6",
     "jest": "^27.4.7",
-    "parcel": "^2.2.1",
+    "parcel": "^2.5.0",
     "rimraf": "^3.0.2"
   }
 }
