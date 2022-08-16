@@ -1,0 +1,86 @@
+[
+    {
+        "input": "19\ni love segment tree\n",
+        "output": "segment\n7"
+    },
+    {
+        "input": "21\nfrog jumps from river\n",
+        "output": "jumps\n5"
+    },
+    {
+        "input": "19\ni love segment tree\n",
+        "output": "segment\n7"
+    },
+    {
+        "input": "21\nfrog jumps from river\n",
+        "output": "jumps\n5"
+    },
+    {
+        "input": "17\n sybtbv jxqwbu cj\n",
+        "output": "sybtbv\n6"
+    },
+    {
+        "input": "6\n mymbg\n",
+        "output": "mymbg\n5"
+    },
+    {
+        "input": "3\n wt\n",
+        "output": "wt\n2"
+    },
+    {
+        "input": "11\n ligf kaakm\n",
+        "output": "kaakm\n5"
+    },
+    {
+        "input": "78\n cgodualjvynpyiizxkbnbxrheieckixfyfcg ygwpwxzgsdqakiwcnvobcfwowqkybdcketnf ahe\n",
+        "output": "cgodualjvynpyiizxkbnbxrheieckixfyfcg\n36"
+    },
+    {
+        "input": "19\nfrog jump from rive\n",
+        "output": "frog\n4"
+    },
+    {
+        "input": "82\n porjehgqrcawxbflitqivdpzllleiwtnhftywffnihgkwjoglzyaprmhyxxf xyrbiygxownaznrivgyz\n",
+        "output": "porjehgqrcawxbflitqivdpzllleiwtnhftywffnihgkwjoglzyaprmhyxxf\n60"
+    },
+    {
+        "input": "4\n pfc\n",
+        "output": "pfc\n3"
+    },
+    {
+        "input": "172\n ozmfudehppmivpkrmkvtnnzb ranigcyhpvooglyahlcjtusipmebtblqqquuweugqlkaakfdlcwzxmtcnzrcgyhsdbehy igrzfcsjbjeuhkkcbvbuvfdepdvnsiipkivrmzewqpryndfmvyhrzikzzddlqoovzmoikpwxirwn\n",
+        "output": "igrzfcsjbjeuhkkcbvbuvfdepdvnsiipkivrmzewqpryndfmvyhrzikzzddlqoovzmoikpwxirwn\n76"
+    },
+    {
+        "input": "9\n izqcthct\n",
+        "output": "izqcthct\n8"
+    },
+    {
+        "input": "196\n vjlmlydkxabfksqlyk tmtdiuvpzwcemcdvzuotmpdr cjdkd obusdanltrcdookzoqgfgtdclvzcgjmbrqtwfxyigvcgmeurkhmgxeu kyhixdrbj yrnbrhzzxfisapdujhkqotqeoozcxjciotrlkedoui k uqzkuhbpzrnrjuicmkdhyrsawnrqhnxs e\n",
+        "output": "obusdanltrcdookzoqgfgtdclvzcgjmbrqtwfxyigvcgmeurkhmgxeu\n55"
+    },
+    {
+        "input": "200\n wytxiscew iqwo vfrrmmxcxwzldwf nahc lzxogtyuflmcphxqgygmn pydmwkdgncqpdiqihuvinsmthzvl bltduarsvsibalmkan gyq qaghxxbbrboovvitzltmseerjhkpkvikcz rkcs qrfxcopymdpcda fyqnyz sgodnwjcgtgitw tuf fir atqo\n",
+        "output": "qaghxxbbrboovvitzltmseerjhkpkvikcz\n34"
+    },
+    {
+        "input": "99\n ppzbjgbahhsdfefqunuafqhgcaqtga qemxkesytrpgdblyymzfcpwfbmakgkzbou atppuggvgykuzpgjdzowdnaapytd wve\n",
+        "output": "qemxkesytrpgdblyymzfcpwfbmakgkzbou\n34"
+    },
+    {
+        "input": "360\n ahijvqqady kjfups uksycdomjibsyiqtjtoifbhtsrzddmisrduuuukwmgidmgylygyfucdhokqsgwvqhjjnjabvzqgtlaqwquhxswwomvqlhb jdtfafrzydszfxttjbhmysbhwwxanvrxpslsmwtj byoamsavbzjgto tagz xgkq yjnretskfum lujmeqjotnj y e tblup ahkkqscjpxaoptcgzurlqbycvkx furpfeiubebmwyyjdepidrgjpgzttermhockxqiqsvymlfdjfuqrqjpcmasvwysfnd wyeeuielfhyfpjp jabcmqmgbsl pbmqkrwbkkjyqwpw fgnlyt\n",
+        "output": "uksycdomjibsyiqtjtoifbhtsrzddmisrduuuukwmgidmgylygyfucdhokqsgwvqhjjnjabvzqgtlaqwquhxswwomvqlhb\n94"
+    },
+    {
+        "input": "8\n rweumvh\n",
+        "output": "rweumvh\n7"
+    },
+    {
+        "input": "831\n qtvxnzgklwiqkkzznfwqdrgorujuwyybzb snqibcpjhegrpbqwaederghganxqdjjfqufmspwjpdgmcezozagqppeex a lg kdjfinlacywbmphmbbqqhbccaqyqp lqoxyobtfickiapnouhuczljlonzaotkvnwxcpunciaybkasnesny q nssnxbnuliklhkpsxxgtsqzkhhpoiavwfpxbidxohwvyqngbiguwabpggvgvactvdfpinxs gjpjvcqmeajkhhlaxucsxoolgigxuyvgxrifjkazfccuxagdbaticgyrxajihdtokcwmpqlmbgoykfjgpfpfojwx odnegzsolplnhciqgrlklolimcpl je aaqa cvnpjesxcqvwifwnikagfswqpwjhpjeandjyiftfgssbuxiubcpuoalzntgxetdllpobkdo izonezwkyxpsmcv btrifzrjyrhvlnlffwhwwertpbdvjzxakvccygxbikjsggnvarnrhjxlfxrkqisktvtgwbfqvnmd qqygpkbkpzqi prddirpfgifhixjp qsftielhyejypx qjsuctjepeh atypuiljijzdaxbgx yxkjbwswjgzadxxhwflgfdkgsafrlznwxqbm vsyuqiaqddzsmmaydfxbospvzuuunqsjna qxotkledocguevytrhznaxzrnzzb gbnzxpoefxqmaixfmwqp dmmrkhdu cytkajneiyexiuhprcbmttbtdhceawuaurfjccuciwjvjlbxggk l aymaxk jmcflhslud lhrfu\n",
+        "output": "gjpjvcqmeajkhhlaxucsxoolgigxuyvgxrifjkazfccuxagdbaticgyrxajihdtokcwmpqlmbgoykfjgpfpfojwx\n88"
+    },
+    {
+        "input": "70\n mxlnlnlnrbdsptxmfsuoudpqtdztdhnugcwllhnohlqvfraochx chihfsqsfjyhemieo\n",
+        "output": "mxlnlnlnrbdsptxmfsuoudpqtdztdhnugcwllhnohlqvfraochx\n51"
+    }
+]

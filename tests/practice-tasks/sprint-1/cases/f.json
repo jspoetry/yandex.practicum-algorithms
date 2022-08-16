@@ -1,0 +1,78 @@
+[
+    {
+        "input": "A man, a plan, a canal: Panama\n",
+        "output": "True"
+    },
+    {
+        "input": "zo\n",
+        "output": "False"
+    },
+    {
+        "input": "uyibsgzkc\n",
+        "output": "False"
+    },
+    {
+        "input": "pkgbmg\n",
+        "output": "False"
+    },
+    {
+        "input": "yhunqkh\n",
+        "output": "False"
+    },
+    {
+        "input": "e.\n",
+        "output": "True"
+    },
+    {
+        "input": "oytqh\n",
+        "output": "False"
+    },
+    {
+        "input": "vfiug\n",
+        "output": "False"
+    },
+    {
+        "input": "uulazxxzaluu\n",
+        "output": "True"
+    },
+    {
+        "input": "vwgbhxumctmcsshujxcettpwcvhobwlytwjhwnsoghjhlkfauucjxrbkgduattgzhqrbqphujuizziujuhpqbrqhzgttaudgkbrxjcuuafklhjhgosnwhjwtylwbohvcwpttecxjuhsscmtcmuxhbgwv\n",
+        "output": "True"
+    },
+    {
+        "input": "nwwpfztoqdmnzkkipklqocpqfygfydspltlksheazjyudskemoomeksduyjzaehskltlpsdyfgyfqpcoqlkpikkznmdqotzfpwwn\n",
+        "output": "True"
+    },
+    {
+        "input": "dkxndfydzlpfffmptriuimdvzakzrqszrvvvqxldjfxzaubzjmxgdcojcdmzmshtcstrbngxpgrehvkzaoxdogvwjxlahlbnkop\n",
+        "output": "False"
+    },
+    {
+        "input": "rivdxnjcjnvyccrbohijcjsdg\n",
+        "output": "False"
+    },
+    {
+        "input": "nvnvcvuncodpwefztvurnglgwhgtfgppyazrmgkrigtmqkxeercjsfdkqdbllxkyipieiuiaaiuieipiykxllbdqkdfsjcreexkqmtgirkgmrzayppgftghwglgnruvtzfewpdocnuvcvnvn\n",
+        "output": "True"
+    },
+    {
+        "input": "ceuzobcgnvxmuslkcnzklrzjhyexawjywtinifyulbnzrhdfbiftafwyqwilfbrexbzdhyrmtazdwuzypebqwxwmdxa\n",
+        "output": "False"
+    },
+    {
+        "input": "mjrttkgjezadztpfvdxlwnpdsdhnwvjtpyqnyzxpimosbyfdnymzcdtmejlzagzzuvcqbksyzldwbujdsdlhmgboigxbgutofegncidocwezugmjrsbhwzctbeqnmhltmdpmhvonrhjlnradrewjuohokmmknnmwebyradithbncwzmjqnohuvlsviptzxjpvjiqspjljbpoqfxqslsychzktezhqxofkfjktirfgbhcduxlztklmzuyosjxwwcnwtcpxtvhwqvcwjbaaacolonnreaargmdpankmnzejztjekqqffryhwgpcrqrddgliejkrgmgxsdqjwgguayxszmpwjszbgelhwvwzphnesfncyhkpoqkxmoinlvbbjzxhscuscdyrqmgpqgjhfrbiqwhrzrpzffpmrqlidwniqxsyvpdcwkbekhljmflsunydfgkzkvyjfrgiuqbcyugjiugjikztpciztykpjreypdlneedfrtgmddinrtikgaohrrkanlghlkhningzvchygpgrfhjnbvajrmoexlawzgyxtyqwqmuuscdkuiuqyrdyacqzhxvpchftbkwbcjootrgyzhyldbysdcokckzwkiitnyvygirfjgaschensjfuwkblcsznrvqkmvvnvydrhkrftzfaekntdexrwticnasvvewqpkckzvsfdvgrxdahdzzauerhddqaqlkbuzvyfmdhcuifyfmlqgmqtzqhewbnaqxvoskcygzfygptfduyotqyymyohdjsdkdpbcwpfmweikip\n",
+        "output": "False"
+    },
+    {
+        "input": "agpfwpgdxbamghfksclvgaytqnkcnvrblnywmmjfwigigrmuhvqllhkzekxbnyogycdajttjmgrefsovjjcwlarsnpjmgmriebmahoochbunnubhcoohambeirmgmjpnsralwcjjvosfergmjttjadcygoynbxkezkhllqvhumrgigiwfjmmwynlbrvncknqtyagvlcskfhgmabxdgpwfpga\n",
+        "output": "True"
+    },
+    {
+        "input": "cpcghrbjeyxabeecqwdpcuohvzyekzmynvbsfjhiomjblcgedbznryzmezkqicmbxbxbecrngufkfjgabepmqksjfhjzbuvygjoduclnmqcxixihnfwfincetfsnyfmcaaniqkkqdppuanqptjlsgqibjfaqdafsogfkuygdnaotgusokstlvvunrznznrtcnggdysfgoqhnldfqrqlxdwaxfgijsnwcfbnrxygbxtbguxpjfplnevcxtlewfyqsulrwzpnmwmunkasrrvvhjaaktmchqlvwsenqedkoenojmrgfczmeccqtnruakoskojrvchkhogcgbnyzfwnzrdexnko\n",
+        "output": "False"
+    },
+    {
+        "input": "nlckvrbvdyfgavgoinsjszuxuhqnmpzircqkvkkryblxouzdournmozmmuxvegjfxwqamfhxgqubhnjsmvtiryqxgcxxnzwyiotgjraoycdgjoyufksalclnbztfiyzdkmqurkohcijbdlbztzftuabuevqaedlqkeouertfcnavzqfushfkrfbtcxvdsqyuoavuiksbtgobflsajipbgcjtimtjwptjmqgricvcljafpeyinqjpztuqjaxdcgnidelbozfbpwxlmltxyorqitkzaegcjdguhmiajsburobhumucousnedarysnfvljzbqrlkmzhhhzsswzjgqot\n",
+        "output": "False"
+    }
+]

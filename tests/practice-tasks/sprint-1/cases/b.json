@@ -1,0 +1,106 @@
+[
+    {
+        "input": "1 2 -3\n",
+        "output": "FAIL\n"
+    },
+    {
+        "input": "7 11 7\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "6 -2 0\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "1 2 -3\n",
+        "output": "FAIL\n"
+    },
+    {
+        "input": "7 11 7\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "6 -2 0\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "-22 6 24\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "21 19 -25\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "-14 -22 2\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "18 -2 0\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "30 24 25\n",
+        "output": "FAIL\n"
+    },
+    {
+        "input": "23 -7 -24\n",
+        "output": "FAIL\n"
+    },
+    {
+        "input": "8 -13 -17\n",
+        "output": "FAIL\n"
+    },
+    {
+        "input": "-488974850 -488974850 -488974850\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "1000000000 1000000000 1000000000\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "-1000000000 -1000000000 -1000000000\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "703684863 232269301 765132875\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "-826978124 41603936 636848186\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "-438172132 -920923748 -999029948\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "-687373597 423392027 259465703\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "-676053861 -304574436 -152123001\n",
+        "output": "FAIL\n"
+    },
+    {
+        "input": "150797845 763673106 -844444263\n",
+        "output": "FAIL\n"
+    },
+    {
+        "input": "-875448262 251527727 953574602\n",
+        "output": "FAIL\n"
+    },
+    {
+        "input": "-68752979 -919478676 -815429715\n",
+        "output": "FAIL\n"
+    },
+    {
+        "input": "0 0 0\n",
+        "output": "WIN\n"
+    },
+    {
+        "input": "0 1 0\n",
+        "output": "FAIL\n"
+    }
+]
