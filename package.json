@@ -7,8 +7,8 @@
     "node": ">= 14"
   },
   "scripts": {
-    "build": "parcel build --target default src/**/**/*.*s",
-    "watch": "parcel watch --target default src/**/**/*.*s",
+    "build": "parcel build --target default src/**/**/**/*.*s",
+    "watch": "parcel watch --target default src/**/**/**/*.*s",
     "test": "jest",
     "test:watch": "jest --watch --verbose",
     "clean": "rimraf dist"
@@ -25,7 +25,9 @@
     }
   },
   "babel": {
-    "presets": ["@parcel/babel-preset-env"]
+    "presets": [
+      "@parcel/babel-preset-env"
+    ]
   },
   "devDependencies": {
     "@babel/core": "^7.16.12",
@@ -34,6 +36,7 @@
     "babel-jest": "^27.4.6",
     "jest": "^27.4.7",
     "parcel": "^2.5.0",
+    "prettier": "2.7.1",
     "rimraf": "^3.0.2"
   }
 }
