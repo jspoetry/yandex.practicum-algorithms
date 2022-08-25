@@ -9,22 +9,6 @@ const padMap = {
   9: "wxyz",
 };
 
-// export const getCombinatios = (numbers: string) => {
-//   const combinations: string[] = [];
-//   for (let i = 0; i < numbers.length; i++) {
-//     if (i + 1 === numbers.length) break;
-//     const letters = padMap[numbers[i]];
-//     const nextLetters = padMap[numbers[i + 1]];
-//     for (let j = 0; j < letters.length; j++) {
-//       for (let y = 0; y < nextLetters.length; y++) {
-//         combinations.push(letters[j] + nextLetters[y]);
-//       }
-//     }
-//   }
-
-//   return combinations.join(" ");
-// };
-
 export const getCombinations = (
   numbers: string,
   index = 0,
