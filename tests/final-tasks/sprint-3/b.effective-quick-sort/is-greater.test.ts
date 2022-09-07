@@ -1,4 +1,4 @@
-import {isGreater} from "../../../../src/final-tasks/sprint-3/b.effective-quick-sort/is-greater";
+import {isGreater} from "~/src/final-tasks/sprint-3/b.effective-quick-sort/is-greater";
 
 test('compare task count', () => {
   const participant1 = ['gena', 6, 1000]

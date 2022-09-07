@@ -1,4 +1,4 @@
-import { solution } from '../../../../src/final-tasks/sprint-3/b.effective-quick-sort/solution'
+import { solution } from '~/src/final-tasks/sprint-3/b.effective-quick-sort/solution'
 
 test('#1', () => {
   const input = [

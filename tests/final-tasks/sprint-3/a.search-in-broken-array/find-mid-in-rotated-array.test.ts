@@ -1,4 +1,4 @@
-import { findMidInBrokenArray } from "../../../../src/final-tasks/sprint-3/a.search-in-broken-array/find-mid-in-broken-array";
+import { findMidInBrokenArray } from "~/src/final-tasks/sprint-3/a.search-in-broken-array/find-mid-in-broken-array";
 
 test('#1', () => {
   const input = [19,21,100,101,1,4,5,7,12]

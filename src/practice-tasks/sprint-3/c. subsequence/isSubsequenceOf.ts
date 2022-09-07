@@ -1,5 +1,5 @@
 
-import { Stack } from "../../../final-tasks/sprint-2/b.calculator/stack"
+import { Stack } from "~/src/final-tasks/sprint-2/b.calculator/stack"
 
 export const isSubsequenceOf = (subsequence: string, str: string) => {
   const stack = new Stack(subsequence.split('').reverse())

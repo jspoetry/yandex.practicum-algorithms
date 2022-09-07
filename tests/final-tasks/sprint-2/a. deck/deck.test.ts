@@ -1,4 +1,4 @@
-import {Deck} from "../../../../src/final-tasks/sprint-2/a.deck/deck.js";
+import {Deck} from "~/src/final-tasks/sprint-2/a.deck/deck";
 
 test('deck limit size', () => {
   const deck = new Deck(1);

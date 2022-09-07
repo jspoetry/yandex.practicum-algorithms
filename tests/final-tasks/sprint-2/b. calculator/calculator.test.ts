@@ -1,4 +1,4 @@
-import { Calculator } from "../../../../src/final-tasks/sprint-2/b.calculator/calculator";
+import { Calculator } from "~/src/final-tasks/sprint-2/b.calculator/calculator";
 
 test('operand checking', () => {
   expect(Calculator.checkIsOperator('+')).toBeTruthy()

@@ -1,4 +1,4 @@
-import {splitAndParseString} from "../../../utils";
+import {splitAndParseString} from "~/src/utils";
 
 /**
  * @type {{input: (number | number[]), output: number[]}[]}

@@ -3,5 +3,7 @@ import { isSubsequenceOf } from '~/src/practice-tasks/sprint-3/c. subsequence/is
 
 receiveInput((input) => {
   const [subsequence, str] = input
-  console.log(isSubsequenceOf(subsequence, str))
+  if (typeof subsequence === "string" && typeof str === "string") {
+    console.log(isSubsequenceOf(subsequence, str));
+  }
 }, (arg) => arg)

@@ -1,5 +1,5 @@
 import {searchEngine} from "./search-engine";
-import {transformToArrayIfIsNot} from "../../../utility/transformToArrayIfIsNot";
+import {transformToArrayIfIsNot} from "~/src/utility/transformToArrayIfIsNot";
 import {generateIndexMapFrom} from "./generate-index-map-from";
 
 export const solution = (input) => {

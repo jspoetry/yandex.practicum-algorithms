@@ -1,4 +1,4 @@
-import {receiveInput} from "../../../utility/receiveInput";
+import {receiveInput} from "~/src/utility/receiveInput";
 
 class Stack {
   constructor() {

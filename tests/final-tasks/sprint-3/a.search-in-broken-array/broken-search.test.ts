@@ -1,4 +1,4 @@
-import { brokenSearch } from "../../../../src/final-tasks/sprint-3/a.search-in-broken-array/broken-search";
+import { brokenSearch } from "~/src/final-tasks/sprint-3/a.search-in-broken-array/broken-search";
 import { cases } from "./cases";
 
 test('#1', () => {

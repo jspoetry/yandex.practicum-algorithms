@@ -1,5 +1,5 @@
-import {solution} from "../../../../src/final-tasks/sprint-2/a.deck/solution.js";
-import {parseArgument} from "../../../../src/utility/parseArgument";
+import {solution} from "~/src/final-tasks/sprint-2/a.deck/solution.js";
+import {parseArgument} from "~/src/utility/parseArgument";
 import case4 from "./cases/case4";
 
 

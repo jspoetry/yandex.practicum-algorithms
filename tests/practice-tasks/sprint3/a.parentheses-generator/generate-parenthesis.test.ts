@@ -1,6 +1,6 @@
 import {
   generateParenthesis
-} from "../../../../src/practice-tasks/sprint3/a.parentheses-generator/generate-parenthesis";
+} from "~/src/practice-tasks/sprint3/a.parentheses-generator/generate-parenthesis";
 
 test('generate parentheses on count 2', () => {
   const result = generateParenthesis(2)

@@ -1,4 +1,4 @@
-import { solution } from "../../../../src/final-tasks/sprint-2/b.calculator/solution";
+import { solution } from "~/src/final-tasks/sprint-2/b.calculator/solution";
 
 test('calculation with one operand', () => {
   const addition = '3 4 +'

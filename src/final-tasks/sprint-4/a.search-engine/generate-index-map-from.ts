@@ -1,4 +1,4 @@
-import {transformToArrayIfIsNot} from "../../../utility/transformToArrayIfIsNot";
+import {transformToArrayIfIsNot} from "~/src/utility/transformToArrayIfIsNot";
 
 export const generateIndexMapFrom = (articles) => (
   articles.reduce((indexMap, article, i) => {

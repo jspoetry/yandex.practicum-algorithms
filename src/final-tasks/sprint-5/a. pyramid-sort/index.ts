@@ -1,5 +1,5 @@
 
-import { receiveInput } from '../../../utility/receiveInput'
+import { receiveInput } from '~/src/utility/receiveInput'
 import { siftUp } from './sift-up'
 import { Input } from './types'
 

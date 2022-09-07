@@ -1,4 +1,4 @@
-import { binarySearch } from "../../../../src/final-tasks/sprint-3/a.search-in-broken-array/binary-search";
+import { binarySearch } from "~/src/final-tasks/sprint-3/a.search-in-broken-array/binary-search";
 
 test('#1', () => {
   const input = [1, 2, 3, 4, 5, 6, 7, 8, 9]
