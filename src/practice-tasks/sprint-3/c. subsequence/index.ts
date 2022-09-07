@@ -1,7 +1,7 @@
-
-import { receiveInput } from "../../../utility/receiveInput";
-import { isSubsequenceOf } from './isSubsequenceOf'
+import { receiveInput } from '~/src/utility/receiveInput'
+import { isSubsequenceOf } from '~/src/practice-tasks/sprint-3/c. subsequence/isSubsequenceOf'
 
 receiveInput((input) => {
-  console.log(isSubsequenceOf(input[0], input[1]))
-})
+  const [subsequence, str] = input
+  console.log(isSubsequenceOf(subsequence, str))
+}, (arg) => arg)

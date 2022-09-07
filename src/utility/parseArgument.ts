@@ -1,6 +1,6 @@
-type ParsedArg = string | number | (string | number)[]
+export type ParsedArg = string | number | (string | number)[]
 
-export const parseArgument = (arg: string): ParsedArg => {
+export const parseArgument = (arg: string): ParsedArg | void => {
   if (!arg) return;
 
   const trimmedArg = arg.trim()

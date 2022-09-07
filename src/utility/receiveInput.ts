@@ -1,16 +1,19 @@
 import readline from 'readline'
 import * as process from "process";
-import { parseArgument } from "./parseArgument";
+import { parseArgument, ParsedArg } from "./parseArgument";
 
-export function receiveInput<T extends Function>(cb: T, parser = parseArgument) {
+export function receiveInput<T extends (args: ParsedArg[]) => void>(cb: T, parser = parseArgument) {
   const rl = readline.createInterface({
     input: process.stdin
   })
 
-  const input = []
+  const input: ParsedArg[] = []
 
   rl.on('line', (line) => {
-    input.push(parser(line))
+    const parsedLine = line
+    if (typeof parsedLine !== 'undefined') {
+      input.push((parsedLine))
+    }
   })
 
   process.stdin.on('end', cb.bind(null, input))
