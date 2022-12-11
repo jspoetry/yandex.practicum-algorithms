@@ -18,7 +18,7 @@ function solution(node) {
   }
 }
 
-function test() {
+function testSolution() {
   var node3 = new Node("node3");
   var node2 = new Node("node2", node3);
   var node1 = new Node("node1", node2);
