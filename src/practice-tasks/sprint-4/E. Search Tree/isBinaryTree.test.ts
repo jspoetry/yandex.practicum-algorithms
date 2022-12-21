@@ -1,5 +1,5 @@
 import isBinaryTree from "./isBinarySearchTree";
-import CNode from "./CNode";
+import CNode from "../common/CNode";
 
 describe("isBinaryTree", () => {
   test("#1", () => {

@@ -1,4 +1,4 @@
-import { Node } from "./types";
+import { Node } from "../common/types";
 
 export default function isBinaryTree(
   root: Node | null,
