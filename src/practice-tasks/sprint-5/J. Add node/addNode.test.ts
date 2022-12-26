@@ -7,7 +7,7 @@ describe("addNode", () => {
 
     const result = addNode(root, 6);
 
-    expect(result).toBeTruthy();
+    expect(result).toEqual(root);
     expect(result?.left?.value).toEqual(6);
   });
 });
