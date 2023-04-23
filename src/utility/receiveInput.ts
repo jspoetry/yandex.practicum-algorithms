@@ -10,7 +10,7 @@ export function receiveInput<T extends (args: ParsedArg[]) => void>(cb: T, parse
   const input: ParsedArg[] = []
 
   rl.on('line', (line) => {
-    const parsedLine = line
+    const parsedLine = parser(line);
     if (typeof parsedLine !== 'undefined') {
       input.push((parsedLine))
     }
